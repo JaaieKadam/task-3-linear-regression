@@ -1,4 +1,4 @@
-# 📈 Task 3 – Linear Regression | Elevate Labs Internship
+# Task 3 – Linear Regression | Elevate Labs Internship
 
 ## 📌 Objective
 The goal of this task was to build and evaluate both **Simple Linear Regression** and **Multiple Linear Regression** models to predict house prices based on various features.
